@@ -18,4 +18,5 @@ How to run web application
 8)	Press “download heroes” to fetch saved heroes from MySQL database. Where you will be able to edit stats after pressing edit button. User can enter “INT” or numeric value in field and press update to update in MySQL database. Press “edit” again to toggle hide input fields.
 
 *****************************************************************************
-SEPARATE MS WORD FILE IS IN PROJECT FOLDER TO UNDERSTAND BETTER WITH IMAGES.
+-> SEPARATE MS WORD FILE IS IN PROJECT FOLDER TO UNDERSTAND BETTER WITH IMAGES.
+-> UPLOADED FOLDER IS WITHOUT NODE MODULES 
