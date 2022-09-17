@@ -19,4 +19,5 @@ How to run web application
 
 *****************************************************************************
 -> SEPARATE MS WORD FILE IS IN PROJECT FOLDER TO UNDERSTAND BETTER WITH IMAGES.
+
 -> UPLOADED FOLDER IS WITHOUT NODE MODULES 
